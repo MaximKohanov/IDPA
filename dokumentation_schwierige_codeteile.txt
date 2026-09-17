@@ -1,0 +1,23 @@
+DOKUMENTATION
+
+
+RUNDUNG MIT decimal.ROUND_HALF_UP
+Referenz:
+https://stackoverflow.com/questions/10825926/python-3-x-rounding-behavior
+(Diskussion zum Unterschied zwischen round(), ROUND_HALF_UP und
+ROUND_HALF_EVEN in Python 3, inkl. Codebeispielen mit quantize())
+
+
+CSV MIT SEMIKOLON-TRENNZEICHEN UND UTF-8-BOM EINLESEN
+Referenz:
+https://stackoverflow.com/questions/13590749/reading-unicode-file-data-with-bom-chars-in-python
+
+
+SPEICHERORT DER CSV-DATEI FUER SKRIPT UND .EXE ERMITTELN
+Referenz:
+https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile
+
+
+UNVERAENDERLICHE DATENOBJEKTE MIT @dataclass(frozen=True)
+Referenz:
+https://docs.python.org/3/library/dataclasses.html#frozen-instances
